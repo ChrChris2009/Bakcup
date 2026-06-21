@@ -46,7 +46,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "⇝𝐃𝐄𝐕𝐈𝐋 👽",
+  "nickNameBot": "⇝👽",
   "prefix": ".",
   "sagorapi": "https://sagor-rest-api.onrender.com",
   "api": "",
