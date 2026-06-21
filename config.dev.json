@@ -35,26 +35,26 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100067540204855",
+    "61568806302361",
     "100078769420993"
   ],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "100067540204855",
+      "61568806302361",
       "100078769420993"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "⇝𝐃𝐄𝐕𝐈𝐋 👽",
-  "prefix": ",",
+  "prefix": ".",
   "sagorapi": "https://sagor-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "zihad 🤡",
-  "facebook2": "https://www.facebook.com/XsagorXnxx",
-  "facebook": "https://www.facebook.com/XsagorXnxx",
+  "authorName": "minato namikaze",
+  "facebook2": "https://www.facebook.com/profile.php?id=61568806302361",
+  "facebook": "https://www.facebook.com/profile.php?id=61568806302361",
   "email": "babygithub@gmail.com",
   "replit": "https://replit.com/@SAGOR-BOT",
   "github": "https://github.com/sagorislam00",
